@@ -81,3 +81,4 @@ WHILE temp != NULL
     temp = temp->next
 Step 16: Stop
 *****FLOW CHART****
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/67afa100-9d29-46f3-9b0c-a61cf4a471db" />
