@@ -93,5 +93,6 @@ When the user selects the add student option, the program collects essential det
 
 For the search operation, the program asks the user to enter a roll number and then traverses the linked list sequentially to find a matching record. If the student is found, the program calculates the total fee by summing the base fee, bus fee, and CDP fee. It then computes the due amount by subtracting the paid fee from the total fee. Based on the due value, the program determines whether the student has fully paid the fees or still has a pending balance. All relevant details, including roll number, category, fee structure, total fee, paid amount, due amount, and payment status, are displayed clearly to the user. If the student is not found in the list, an appropriate message is displayed.
 
+
 In the display operation, the program traverses the entire linked list from the head node to the last node and prints the roll numbers (or details) of all students, showing the structure of the list. This helps the user view all stored records at once. The program continues to execute these operations in a loop, allowing multiple actions until the user selects the exit option. Once the exit option is chosen, the program terminates, completing the execution. This methodology ensures efficient data handling, easy searching, and flexible storage using linked list concepts.
 
